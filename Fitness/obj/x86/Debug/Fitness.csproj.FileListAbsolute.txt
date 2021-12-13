@@ -1,0 +1,27 @@
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\bin\Debug\Fitness.exe
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\bin\Debug\Fitness.pdb
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Form1.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Properties.Resources.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.csproj.GenerateResource.Cache
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.exe
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.pdb
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Form2.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Form3.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Form4.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.Form5.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Debug\Fitness.FormTaksit.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\bin\Debug\Fitness.exe
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\bin\Debug\Fitness.pdb
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.csprojAssemblyReference.cache
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Form1.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Form2.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Form3.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Form4.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Form5.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.FormTaksit.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.Properties.Resources.resources
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.csproj.GenerateResource.cache
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.csproj.CoreCompileInputs.cache
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.exe
+E:\Gkhan\Programlama(eski projeler)\fitness Otomasyonu\spor salonu otomasyon\fitness en son\Fitness\Fitness\obj\x86\Debug\Fitness.pdb

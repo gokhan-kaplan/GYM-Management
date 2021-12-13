@@ -1,0 +1,12 @@
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\bin\Release\Fitness.exe
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\bin\Release\Fitness.pdb
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Form1.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Form2.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Form3.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Form4.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Form5.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.FrmBorc.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.Properties.Resources.resources
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.csproj.GenerateResource.Cache
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.exe
+C:\Users\Samsung\documents\visual studio 2010\Projects\Fitness\Fitness\obj\x86\Release\Fitness.pdb
